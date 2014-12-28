@@ -1,4 +1,4 @@
-package main
+package gplp
 
 import (
 	"fmt"
@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 )
 
-func main() {
+func PathMain() {
 	// declare array
 	componenets := []string{"a", "path",
 		".", "with", "relative", "elements"}
