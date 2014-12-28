@@ -8,7 +8,9 @@ Sample Go
 Using version go1.3.3
 
 $ export GOPATH=$HOME/gopath:$GOPATH
+
 $ export PATH=$HOME/gopath/bin:$PATH
+
 $ mkdir -p $HOME/gopath/src/github.com/jittakal/4go
 
 $ cd $HOME/gopath/src/github.com/jittakal/4go
