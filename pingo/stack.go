@@ -37,7 +37,3 @@ func (stack Stack) Len() int {
 func (stack Stack) IsEmpty() bool {
 	return len(stack) == 0
 }
-
-func main() {
-
-}
