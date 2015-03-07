@@ -1,8 +1,11 @@
 package easy
 
+import "fmt"
+
 // Say Hello
 func SayHello(name string) string {
 	helloMsg := "Hello, " + name
+	fmt.Printf(helloMsg)
 	return helloMsg
 }
 
